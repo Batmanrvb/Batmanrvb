@@ -1,7 +1,7 @@
 [![MasterHead](https://i.makeagif.com/media/8-23-2015/nzhmNE.gif)]
 <h1 align="center">Hi 👋, I'm Raj Vikrant Brahma</h1>
 <h3 align="center">Currently pursuing my studies at IISER Kolkata and passionate about coding and machine learning</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Aulj.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/Aulj.gif](https://i.gifer.com/Aulj.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batmanrvb&label=Profile%20views&color=0e75b6&style=flat" alt="batmanrvb" /> </p>
 
