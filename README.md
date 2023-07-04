@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.wallpapersafari.com/0/92/Foj7bz.jpg)
+![MasterHead](https://i.pinimg.com/originals/a5/83/9b/a5839b8d6840495267cb569067ef02fb.png)
 <h1 align="center"> Welcome to my Batcave </h1>
 <h3 align="center">Currently pursuing my studies at IISER Kolkata and passionate about coding and machine learning</h3>
 <img align="right" alt="Coding" width="700" src="https://www.mandatory.com/wp-content/uploads/sites/10/gallery/batsuits/batfleck4-0-0.gif">
