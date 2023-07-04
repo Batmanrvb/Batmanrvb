@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/a5/83/9b/a5839b8d6840495267cb569067ef02fb.png)
 <h1 align="center"> Welcome to my Batcave </h1>
-<h3 align="center">Currently pursuing my studies at IISER Kolkata and passionate about coding and machine learning</h3>
+<h3 align="center">Currently pursuing my studies at IISER Kolkata and passionate about coding, data science and machine learning</h3>
 <img align="center" alt="Coding" width="1000" src="https://www.mandatory.com/wp-content/uploads/sites/10/gallery/batsuits/batfleck4-0-0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batmanrvb&label=Profile%20views&color=0e75b6&style=flat" alt="batmanrvb" /> </p>
